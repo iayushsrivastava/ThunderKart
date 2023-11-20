@@ -36,7 +36,6 @@ We welcome contributions from the community to enhance ThunderKart further. If y
 Support
 Encountering issues or have questions about ThunderKart? Our support team is ready to assist you. Reach out at support@thunderkart.shop
 
-License
-ThunderKart is released under the MIT License. Feel free to use, modify, and distribute the system in accordance with the terms of the license.
+
 
 Happy Shopping with ThunderKart!
