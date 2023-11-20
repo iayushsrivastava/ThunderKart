@@ -15,7 +15,6 @@ To embark on your ThunderKart journey, visit our website at Thunderkart.shop. Si
 Features
 Intuitive Interface: ThunderKart boasts a user-friendly and visually appealing interface, ensuring an effortless and enjoyable shopping experience.
 
-Secure Transactions: Your safety is our priority. ThunderKart employs encrypted payment gateways to guarantee secure and reliable transactions.
 
 Extensive Product Catalog: Dive into our diverse product catalog, complete with detailed descriptions, high-quality images, and customer reviews, enabling users to make informed decisions.
 
