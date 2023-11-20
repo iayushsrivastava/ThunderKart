@@ -10,7 +10,7 @@ Contributing
 Support
 License
 Getting Started
-To embark on your ThunderKart journey, visit our website at Thunderkart.shop. Sign up to explore a vast array of products or log in if you're already a member. For merchants interested in joining the ThunderKart family, contact our support team to set up your store.
+To embark on your ThunderKart journey, visit our website at WWW.Thunderkart.shop. Sign up to explore a vast array of products or log in if you're already a member. For merchants interested in joining the ThunderKart family, contact our support team to set up your store.
 
 Features
 Intuitive Interface: ThunderKart boasts a user-friendly and visually appealing interface, ensuring an effortless and enjoyable shopping experience.
@@ -26,7 +26,7 @@ Installation
 ThunderKart is a cloud-based system, eliminating the need for installation for users. Merchants interested in joining ThunderKart can connect with our support team for onboarding and setup instructions.
 
 Usage
-For customers, simply visit thunderkart.shop. log in, and start exploring our diverse product categories. Add desired items to your cart, proceed to checkout, and enjoy a secure and efficient purchasing process.
+For customers, simply visit www.thunderkart.shop. log in, and start exploring our diverse product categories. Add desired items to your cart, proceed to checkout, and enjoy a secure and efficient purchasing process.
 
 For merchants, follow the onboarding instructions provided by our support team to set up your store, add products, and manage your inventory through the ThunderKart merchant portal.
 
